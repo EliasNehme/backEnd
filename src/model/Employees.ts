@@ -1,5 +1,7 @@
 import { Employee, WorkingPossition } from './Model';
 
+/* Critical Fix */
+
 export const employees: Employee[] = [
     {
         name: 'Vincent Staggs',
