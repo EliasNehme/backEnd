@@ -6,6 +6,7 @@ Simple NodeJs backend service for retrieving employees by possition.
 
 The project requires npm and nodeJs installed
 
+
 ### Build Project
 
 1. Install typescript: `npm install -g typescript`
