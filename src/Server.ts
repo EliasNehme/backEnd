@@ -15,6 +15,10 @@ export default class Server {
         this.dataService = new DataService();
     }
 
+    /**
+     * Feature added
+     */
+
     public createServer() {
         http.createServer((req, res) => {
             this.incomingMessage = req;
