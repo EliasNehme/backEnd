@@ -1,8 +1,6 @@
 add a new feature
 
-<<<<<<< HEAD
 added yet another change
-=======
 Simple NodeJs backend service for retrieving employees by possition.
 
 ## Setup
@@ -33,4 +31,3 @@ The project requires npm and nodeJs installed
 |Managers        | http://localhost:8080/managers    |
 |Admins          | http://localhost:8080/admins      |
 |Nonadmins       | http://localhost:8080/nonadmins   |
->>>>>>> master
